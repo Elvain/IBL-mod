@@ -1,0 +1,22 @@
+﻿## These are really not in numeric order... sorry...
+
+igbodyn005 = {
+	name = "dynn_Aguluri"
+	culture = igbo
+}
+igbodyn006 = {
+	name = "dynn_Aguleri"
+	culture = igbo
+}
+igbodyn007 = {
+	name = "dynn_Olaudah"
+	culture = igbo
+}
+igbodyn008 = {
+	name = "dynn_Ijaw"
+	culture = igbo
+}
+igbodyn009 = {
+	name = "dynn_Urhobo"
+	culture = igbo
+}

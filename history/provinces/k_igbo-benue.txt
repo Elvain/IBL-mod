@@ -1,0 +1,196 @@
+# 6521 - BAUCHI
+6521 = {	# 6521 - BAUCHI
+	
+	# Misc
+	culture = hausa
+	religion = west_african_bori_pagan
+	
+	# History
+
+}
+
+# 6523 - WUKARI
+6523 = {	# 6523 - WUKARI
+	
+	# Misc
+	culture = hausa
+	religion = west_african_bori_pagan
+	
+	# History
+
+}
+
+# 6524 - WASE
+6524 = {	# 6524 - WASE
+	
+	# Misc
+	culture = hausa
+	religion = west_african_bori_pagan
+	
+	# History
+
+}
+
+# 6525 - MURI
+6525 = {	# 6525 - MURI
+	
+	# Misc
+	culture = hausa
+	religion = west_african_bori_pagan
+	
+	# History
+
+}
+
+# 6530 - DURUM
+6530 = {	# 6530 - DURUM
+	
+	# Misc
+	culture = hausa
+	religion = west_african_bori_pagan
+	
+	# History
+
+}
+
+# 6531 - JOS
+6531 = {	# 6531 - JOS
+	
+	# Misc
+	culture = hausa
+	religion = west_african_bori_pagan
+	
+	# History
+
+}
+
+# 6533 - KWARARAFA
+6533 = {	# 6533 - KWARARAFA
+	
+	# Misc
+	culture = hausa
+	religion = west_african_bori_pagan
+	
+	# History
+
+}
+
+# 6546 - NOK
+6546 = {	# 6546 - NOK
+	
+	# Misc
+	culture = hausa
+	religion = west_african_bori_pagan
+	
+	# History
+
+}
+
+# 6548 - BIDA
+6548 = {	# 6548 - BIDA
+	
+	# Misc
+	culture = nupe
+	religion = west_african_bori_pagan
+	
+	# History
+
+}
+
+# c_igbo
+8950 = {	#NRI
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+8109 = {	#ABAKALIKI
+	holding = none
+	
+}
+8110 = {	#IGBO-UKWU
+	holding = city_holding
+	
+}
+8951 = {	#AWKA
+	holding = none
+	
+}
+# c_aguleri
+8952 = {	#AGULERI
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+# c_west_igbo
+8086 = {	#ILAH
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+8968 = {	#ABOH
+	holding = none
+	
+}
+8947 = {	#ANIOMA
+	holding = none
+	
+}
+# c_ikwere
+8949 = {	#IKWERE
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+8114 = {	#OGWUTA
+	holding = none
+	
+}
+8948 = {	#OWERI
+	holding = none
+	
+}
+# c_ibibo AKA IBIBIO
+8117 = {	#CALABAR
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+8118 = {	#CHUKWU
+	holding = none
+	
+}
+8122 = {	#BENDE
+	holding = none
+	
+}
+# c_igala
+8107 = {	#IGALA
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	
+}
+8108 = {	#IDAH/IBAH
+	holding = none
+	
+}
+8121 = {	#IDOMA
+	holding = none
+	
+}
+# c_tiv
+8113 = {	#TIV
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	
+}
+8119 = {	#YAKO
+	holding = none
+	
+}

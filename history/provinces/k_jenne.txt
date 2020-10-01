@@ -1,0 +1,198 @@
+# c_dodugu
+6634 = {	#NIAMINA
+	culture = bozo
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	
+	# History
+	1256.1.1 = { religion = ashari }
+
+}
+
+6645 = {	#SEGOU
+	holding = city_holding
+
+}
+
+6632 = {	#KRI
+	holding = none
+}
+
+6643 = {	#TAMANI
+	holding = none
+	
+}
+
+6644 = {	#SANADO
+	holding = none
+
+}
+
+8963 = {	#UPPER_DO
+	holding = none
+
+}
+
+# c_bindugu
+6646 = {	# 6646 - SOUM
+	culture = bozo
+	religion = west_african_bidu_pagan
+	holding = castle_holding
+	
+	# History
+	1256.1.1 = { religion = ashari }
+
+}
+6646 = {	# 6646 - SOUM
+	culture = bozo
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	
+	# History
+	1256.1.1 = { religion = ashari }
+
+}
+
+8962 = {	#TIEBALA
+	holding = church_holding
+
+}
+6648 = {	#TABA
+	holding = none
+
+}
+
+6649 = {	#SAN
+	holding = none
+
+}
+
+# 6670 - BANGU
+6670 = {	# 6670 - BANGU
+	
+	# Misc
+	culture = bozo
+	religion = west_african_bidu_pagan
+	
+	# History
+	1226.1.1 = { religion = ashari }
+
+}
+
+# 6671 - SAFARE
+6671 = {	# 6671 - SAFARE
+	
+	# Misc
+	culture = bozo
+	religion = west_african_bidu_pagan
+	
+	# History
+	1226.1.1 = { religion = ashari }
+
+}
+
+# 6672 - NGUMA
+6672 = {	# 6672 - NGUMA
+	
+	# Misc
+	culture = marka
+	religion = west_african_bidu_pagan
+	
+	# History
+	#1276.1.1 = { religion = ashari }
+
+}
+
+# 6673 - KORIENZA
+6673 = {	# 6673 - KORIENZA
+	
+	# Misc
+	culture = bozo
+	religion = west_african_bidu_pagan
+	
+	# History
+	1226.1.1 = { religion = ashari }
+
+}
+
+# 6708 - BENA
+6708 = {	# 6708 - BENA
+	
+	# Misc
+	culture = bobo
+	religion = west_african_pagan
+	
+	# History
+	#1176.1.1 = { religion = ashari }
+
+}
+
+# 6709 - DOUROLA
+6709 = {	# 6709 - DOUROLA
+	
+	# Misc
+	culture = bobo
+	religion = west_african_pagan
+	
+	# History
+	#1176.1.1 = { religion = ashari }
+
+}
+
+# c_jenne
+6711 = {	# 6711 - JENNE-JENO
+	culture = bozo
+	religion = west_african_bidu_pagan
+	holding = castle_holding
+	
+	# History
+	867.1.1 = {
+		special_building_slot = holy_site_great_mosque_of_djenne_01
+	}
+	1176.1.1 = { religion = ashari }
+
+}
+
+6647 = {	#KANIANA
+	#culture = bozo
+	#religion = west_african_bidu_pagan
+	holding = city_holding
+	
+	# History
+	1226.1.1 = { religion = ashari }
+
+}
+
+6710 = {	#MOPTI
+	#culture = bozo
+	#religion = west_african_bidu_pagan
+	holding = church_holding
+	
+	# History
+	1176.1.1 = { religion = ashari }
+
+}
+6712 = {	#KIRI-BARA
+	#culture = bobo
+	#religion = west_african_bidu_pagan
+	holding = none
+	
+}
+
+8961 = {	#TOGUERE
+	holding = none
+}
+
+
+# 6722 - SIKASSO
+6722 = {	# 6722 - SIKASSO
+	
+	# Misc
+	culture = bobo
+	religion = west_african_pagan
+	
+	# History
+	#1176.1.1 = { religion = ashari }
+
+}
+
