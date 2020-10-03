@@ -6332,7 +6332,8 @@ e_germany = {
 					color = { 65 65 100 }
 					color2 = { 255 255 255 }
 				}
-				b_epinal = {
+				#b_epinal = {
+				b_moyenmoutier = {
 					province = 2078
 
 					color = { 65 65 100 }
@@ -6420,18 +6421,21 @@ e_germany = {
 					color2 = { 255 255 255 }
 				}
 			}
-			c_neufchateau = {
+			#c_neufchateau = {
+			c_saintois = {
 				color = { 75 75 125 }
 				color2 = { 255 255 255 }
 			
-				b_neufchateau = {
-					province = 2384
+				#b_neufchateau = {
+				b_vaudemont = {
+					province = 2384 #west
 
 					color = { 75 75 125 }
 					color2 = { 255 255 255 }
 				}
-				b_vaudemont = {
-					province = 2715
+				#b_vaudemont = { 
+				b_chatel_moselle = {
+					province = 2715 #east
 
 					color = { 75 75 125 }
 					color2 = { 255 255 255 }
@@ -8502,12 +8506,6 @@ e_germany = {
 					color = { 255 215 205 }
 					color2 = { 255 255 255 }
 				}
-				b_basel = {
-					province = 2050
-
-					color = { 255 215 205 }
-					color2 = { 255 255 255 }
-				}
 			}
 		}
 
@@ -8517,74 +8515,56 @@ e_germany = {
 
 			capital = c_strassburg #Strassburg
 
-			c_strassburg = {
+			#c_strassburg = {
+			c_nordgau = {
 				color = { 205 205 230 }
 				color2 = { 255 255 255 }
-			
+
+				#b_selestat = {
+				b_hohenbourg = {
+					province = 2719
+
+					color = { 210 200 220 }
+					color2 = { 255 255 255 }
+				}
+				
 				b_strassburg = {
 					province = 2721
 
 					color = { 205 205 230 }
 					color2 = { 255 255 255 }
 				}
+				
 				b_haguenau = {
 					province = 2722
 
 					color = { 205 205 230 }
 					color2 = { 255 255 255 }
 				}
-				b_lichtberg = {
+				#b_lichtberg = {
+				b_dabo = {
 					province = 2723
 
 					color = { 205 205 230 }
 					color2 = { 255 255 255 }
 				}
-			}
-			c_breisgau = {
-				color = { 185 185 200 }
-				color2 = { 255 255 255 }
-				
-				b_freiburg = {
-					province = 2751
+			#}
+			##moved to Swabia
+			#c_breisgau = {
 
-					color = { 185 185 200 }
-					color2 = { 255 255 255 }
-				}
-				b_sankt_blasien = {
-					province = 2750
-
-					color = { 185 185 200 }
-					color2 = { 255 255 255 }
-				}
-				b_offenburg = {
-					province = 2752
-
-					color = { 185 185 200 }
-					color2 = { 255 255 255 }
-				}
-				b_geroldseck = {
-					province = 2753
-
-					color = { 185 185 200 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_colmar = {
-				color = { 210 200 220 }
-				color2 = { 255 255 255 }
+			#c_colmar = {
+			#	color = { 210 200 220 }
+			#	color2 = { 255 255 255 }
 			
-				b_colmar = {
+				#b_colmar = {
+				b_eguisheim = {
 					province = 2717
 
 					color = { 210 200 220 }
 					color2 = { 255 255 255 }
 				}
-				b_selestat = {
-					province = 2719
+				
 
-					color = { 210 200 220 }
-					color2 = { 255 255 255 }
-				}
 			}
 			c_sundgau = {
 				color = { 215 200 215 }
@@ -8608,12 +8588,13 @@ e_germany = {
 					color = { 215 200 215 }
 					color2 = { 255 255 255 }
 				}
-				b_porrentruy = {
-					province = 2056
-
-					color = { 215 200 215 }
-					color2 = { 255 255 255 }
-				}
+				#moved to basel
+#				b_porrentruy = {
+#					province = 2056
+#
+#					color = { 215 200 215 }
+#					color2 = { 255 255 255 }
+#				}
 			}
 		}
 		
@@ -8799,6 +8780,36 @@ e_germany = {
 					province = 2762
 
 					color = { 208 198 198 }
+					color2 = { 255 255 255 }
+				}
+			}
+			##moved from Alsace
+			c_breisgau = {
+				color = { 185 185 200 }
+				color2 = { 255 255 255 }
+				
+				b_freiburg = {
+					province = 2751
+
+					color = { 185 185 200 }
+					color2 = { 255 255 255 }
+				}
+				b_sankt_blasien = {
+					province = 2750
+
+					color = { 185 185 200 }
+					color2 = { 255 255 255 }
+				}
+				b_offenburg = {
+					province = 2752
+
+					color = { 185 185 200 }
+					color2 = { 255 255 255 }
+				}
+				b_geroldseck = {
+					province = 2753
+
+					color = { 185 185 200 }
 					color2 = { 255 255 255 }
 				}
 			}
@@ -48184,31 +48195,34 @@ e_france = {
 					color = { 24 95 226 }
 					color2 = { 255 255 255 }
 				}
-				b_verdun = {
-					province = 2395
+				b_briey = {
+					province = 2706
 
 					color = { 24 95 226 }
 					color2 = { 255 255 255 }
 				}
-				b_argonne = {	#Displayed as Saint-Mihiel
-					province = 2081
+				#b_hayange = {
+				b_mousson = {
+					province = 2080
 
 					color = { 24 95 226 }
 					color2 = { 255 255 255 }
 				}
 			}
-			c_briey = {
+			#c_briey = {
+			c_verdun = {
 				color = { 53 132 226 }
 				color2 = { 255 255 255 }
 
-				b_briey = {
-					province = 2706
+				b_verdun = {
+					province = 2395
 
 					color = { 53 132 226 }
 					color2 = { 255 255 255 }
 				}
-				b_hayange = {
-					province = 2080
+				#b_argonne = {	#Displayed as Saint-Mihiel
+				b_gorze = {
+					province = 2081
 
 					color = { 53 132 226 }
 					color2 = { 255 255 255 }
@@ -48219,19 +48233,22 @@ e_france = {
 				color = { 55 105 225 }
 				color2 = { 255 255 255 }
 			
+				#b_grand = {
+				b_chaumont_52 = {
+					province = 2386
+
+					color = { 55 105 225 }
+					color2 = { 255 255 255 }
+				}
 				b_langres = {
 					province = 2374
 
 					color = { 55 105 225 }
 					color2 = { 255 255 255 }
 				}
-				b_grand = {
-					province = 2386
 
-					color = { 55 105 225 }
-					color2 = { 255 255 255 }
-				}
-				b_champs = {
+				#b_champs = {
+				b_lamarche = {
 					province = 2385
 
 					color = { 55 105 225 }
@@ -48239,18 +48256,20 @@ e_france = {
 				}
 			}
 
-			c_vaucouleurs = {
+			#c_vaucouleurs = {
+			c_toul = {
 				color = { 15 80 220 }
 				color2 = { 255 255 255 }
 			
-				b_vaucouleurs = {
-					province = 2387
+				b_toul = {
+					province = 2079
 
 					color = { 15 80 220 }
 					color2 = { 255 255 255 }
 				}
-				b_toul = {
-					province = 2079
+				#b_vaucouleurs = {
+				b_commercy = {
+					province = 2387
 
 					color = { 15 80 220 }
 					color2 = { 255 255 255 }
@@ -50095,6 +50114,21 @@ e_france = {
 					province = 2048
 					
 					color = { 150 70 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_basel = { #moved from currezia
+				b_basel = {
+					province = 2050
+
+					color = { 255 215 205 }
+					color2 = { 255 255 255 }
+				}
+				#b_porrentruy = {
+				b_st_ursanne = {
+					province = 2056
+
+					color = { 215 200 215 }
 					color2 = { 255 255 255 }
 				}
 			}

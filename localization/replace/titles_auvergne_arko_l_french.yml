@@ -1,0 +1,34 @@
+﻿l_french:
+ # FROM titles_l_english.yml
+ 
+ #Duchy of Bar
+ c_mousson:0 "Mousson" #was c. Briey
+ c_mousson_adj:0 "Mousson"
+ b_mousson:0 "Mousson"
+ b_gorze:1 "Gorze"
+ b_lamarche:0 "Lamarche"
+
+ ##Duchy of Lorraine
+ c_saintois:0 "Saintois" #was c. Neufchateau
+ c_saintois_adj:0 "Saintois"
+ b_vaudemont:0 "Vaudémont" #fixed vanilla spelling
+ b_chatel_moselle:0 "Châtel" 
+
+ c_toul:0 "Toulois" #was c. Vaucouleurs
+ c_toul_adj:0 "Toulois"
+ b_commercy:0 "Commercy"
+
+ b_chaumont_52:0 "Chaumont"
+ 
+ b_moyenmoutier:0 "Moyenmoutier"
+ 
+ #BASEL
+ b_st_ursanne:0 "Saint-Ursanne"
+
+ #ALSACE
+ c_nordgau:0 "Nordgau"
+ c_nordgau_adj:0 "Nordgauer"
+ b_dabo:0 "Dabo"
+ b_eguisheim:0 "Eguisheim"
+ b_hohenbourg:0 "Hohenburg"
+ b_haguenau:0 "Haguenau"
