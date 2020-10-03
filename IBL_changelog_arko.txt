@@ -1,0 +1,56 @@
+changelog for Ibn Battuta's legacy:
+
+New or renamed counties:
+-c_basel (new)
+-c_briey changed to c_verdun
+-c_neufchateau changed to c_saintois
+-c_vaucouleurs changed to c_toul
+-c_strassburg changed to c_nordgau
+
+Removed counties:
+-c_colmar
+
+De jure changes:
+-c_breisgau moved from Alsace to Swabia
+-b_porrentruy from Sundgau to Basel
+-b_colmar from Sundgau to Nordgau
+-b_selestat from Sundgau to Nordgau
+-b_briey from Briey to Bar
+
+New or renamed baronies
+-b_argonne changed to b_gorze
+-b_champs changed to b_lamarche
+-b_neufchateau changed to b_chatel_moselle
+-b_vaucouleurs changed to b_commercy
+-b_epinal changed to b_moyenmoutier
+-b_porrentruy changed to b_st_ursanne
+-b_lichtberg changed to b_dabo
+-b_colmar changed to b_eguisheim
+-b_selestat changed to b_hohenbourg
+-b_grand changed to b_chaumont
+-b_hayange changed to b_mousson
+
+Fixed some spelling:
+-Haguenau
+-Vaudémont
+
+Changed some holding types.
+
+New characters :
+-Prince-bishops of Strassburg
+-Prince-bishops of Verdun
+-Prince-bishops of Basel
+-Prince-bishops of Toul
+
+New or updated coat of arms:
+-Nordgau
+-Sundgau
+-Toulois
+-Saintois
+-Lure abbey
+-Basel
+-Saint Ursanne
+-Langres (barony)
+-Langres (County)
+-Briey
+
