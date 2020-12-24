@@ -73,7 +73,7 @@
 ##d_brabant ###################################
 ###c_brabant
 2105 = {	#LEUVEN
-	culture = franconian
+	culture = dutch
 	religion = catholic
 	holding = castle_holding
 }
@@ -86,7 +86,7 @@
 
 ###c_antwerpen
 2106 = {	#ANTWERP
-	culture = franconian
+	culture = dutch
 	religion = catholic
 	holding = castle_holding
 }
@@ -211,6 +211,7 @@
 	religion = catholic
 	holding = castle_holding
 }
+#2078 = {	#MOYENMOUTIER
 2078 = {	#MOYENMOUTIER
 	holding = church_holding
 }
@@ -274,11 +275,13 @@
 }
 
 ###c_neufchateau
+#2384 = {	#NEUFCHATEAU
 2384 = {	#VAUDEMONT
 	culture = french
 	religion = catholic
 	holding = castle_holding
 }
+#2715 = {	#VAUDEMONT
 2715 = {	#CHATEL
 	#holding = city_holding
 	holding = none	

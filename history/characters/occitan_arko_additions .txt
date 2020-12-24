@@ -1,0 +1,69 @@
+﻿##lord in Auvergne region
+#prince-abbots of Aurillac
+
+auvergne_001 = {
+	name="GE_raud" #Géraud d'Aurillac, funder of the Aurillac's abbey
+	dynasty = 9000000
+	religion = "catholic"
+	culture = "occitan"
+	855.1.1 = {
+		birth = yes
+	}
+	trait = education_learning_3
+	trait = celibate
+	trait = devoted
+	
+	902.1.1 = {
+		add_trait = blind 
+	}
+	909.10.13 = {
+		death = yes
+	}
+}
+auvergne_002 = {
+	name="Emil" #
+	#dynasty = 0
+	religion = "catholic"
+	culture = "occitan"
+	1020.1.1 = {
+		birth = yes
+	}
+	trait = education_learning_2
+	trait = celibate
+	#trait = devoted
+	1074.1.1 = {
+		death = yes
+	}
+}
+bourges_001 = {
+	name="Egfried" #
+	#dynasty = 0
+	religion = "catholic"
+	culture = "frankish"
+	855.1.1 = {
+		birth = yes
+	}
+	#trait = education_learning_2
+	#trait = celibate
+	#trait = devoted
+	909.1.1 = {
+		death = yes
+	}
+}
+bourges_002 = {
+	name="Etienne" #
+	#dynasty = 0
+	religion = "catholic"
+	culture = "frankish"
+	1020.1.1 = {
+		birth = yes
+	}
+	#trait = education_learning_2
+	#trait = celibate
+	#trait = devoted
+	1074.1.1 = {
+		death = yes
+	}
+}
+
+

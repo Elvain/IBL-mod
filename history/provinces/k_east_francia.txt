@@ -528,6 +528,15 @@
 		holding = church_holding
 	}
 }
+2997 = {	#CHEB
+	holding = none
+	1040.1.1 = {
+		holding = castle_holding
+	}
+}
+3001 = {	#REHAU
+	holding = none
+}
 
 ###c_cottbus
 3181 = {	#COTTBUS
@@ -1133,7 +1142,9 @@
 	religion = catholic
 	holding = church_holding
 }
-2054 = {	#KONSTANZ
+2054 = {	#KONSTANZ >> KYBURG
+	culture = swabian
+	religion = catholic
 	holding = castle_holding
 }
 

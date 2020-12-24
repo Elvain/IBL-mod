@@ -1,0 +1,38 @@
+﻿l_english:
+ # FROM titles_l_english.yml
+ #b_ambert:0 "Ambert" to remove, replaced by :
+ b_brioude:0 "Brioude"
+ #b_clermont_sur_ailler:0 "Clermont-sur-Allier" to remove, replaced by :
+ b_clermont_auvergne:0 "Clermont"
+ #b_mercaeur:0 "Mercaeur" 
+ b_mercaeur:0 "Mercoeur" #fixed typo
+ #b_montpensier:0 "Montpensier" to remove, replaced by :
+ b_thiers:0 "Thiers"
+ #b_thiers:0 "Thiers" to remove, replaced by :
+ b_montferrand:0 "Montferrand"
+ #b_velay:0 "Velay" to remove, replaced by :
+ b_chapteuil:0 "Chapteuil"
+ #b_le_puy:0 "Velayese" to replace by:
+ b_le_puy:0 "Le Puy"
+
+ #c_auvergne:0 "Auvergne"
+ #c_auvergne_adj:0 "Auvergnian" to remove, replaced by :
+ c_aurillac:0 "Aurillac"
+ c_aurillac_adj:0 "Aurillacian"
+ #c_clermont_sur_allier:0 "Clermont-sur-Allier"
+ #c_clermont_sur_allier_adj:0 "Clermontese" to remove, replaced by :
+ c_auvergne:0 "Auvergne"
+ c_auvergne_adj:0 "Auvergnian"
+ #c_thiers:0 "Thiers"
+ #c_thiers_adj:0 "Thieran" to remove, replaced by :
+ c_brioude:0 "Brioude"
+ c_brioude_adj:0 "Brivadian"
+ 
+ c_velay:0 "Velay" #unchanged
+ c_velay_adj:0 "Velaysian" #missing vanilla entry
+ 
+ #GEVAUDAN tweaks
+ #b_saint_flour:0 "Saint-Flour" to remove, replaced by :
+ b_grezes:0 "Grèzes"
+ #b_gevaudan:0 "Gevaudan" to remove, replaced by :
+ b_tournel:0 "Tournel"

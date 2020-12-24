@@ -82,7 +82,7 @@
 	}
 }
 8718 = {	#BRIANCON
-	holding = none
+	holding = castle_holding
 }
 
 ##d_savoie ###################################
@@ -164,16 +164,18 @@
 	religion = catholic
 	holding = castle_holding
 }
-2070 = {	#VILLARS = Villars-les-Dombes
+2070 = {	#MONTLUEL ex VILLARS = Villars-les-Dombes
 	holding = none
 	920.1.1 = {
-		holding = church_holding
+		holding = castle_holding
+		#holding = church_holding
 	}
 }
 2301 = {	#BEAUJEU
 	holding = none
 	1000.1.1 = {
-		holding = city_holding
+		#holding = city_holding
+		holding = castle_holding
 	}
 }
 
@@ -265,32 +267,37 @@
 }
 
 ###c_bresse
-2071 = {	#BOURG
+2071 = {	#VILLARS ex BOURG
 	culture = french
 	religion = catholic
 	holding = castle_holding
 }
-2457 = {	#CHAMPAGNOLE
-	holding = none
-	950.1.1 = {
+2457 = {	#SAINT CLAUDE ex CHAMPAGNOLE
+	#holding = none
+	#950.1.1 = {
 		holding = church_holding
-	}
+	#}
 }
 
 ###c_dole
-2458 = {	#DOLE
+#moved to Chalons
+#2458 = {	#LOUHANS ex DOLE
+#	culture = french
+#	religion = catholic
+#	holding = castle_holding
+#}
+2191 = {	#DOLE ex QUINGEY
+	#holding = none
 	culture = french
 	religion = catholic
 	holding = castle_holding
-}
-2191 = {	#QUINGEY
-	holding = none
 }
 2073 = {	#LONS-LE-SAUNIER
 	holding = city_holding
 }
 2072 = {	#SALINS
-	holding = none
+	#holding = none
+	holding = castle_holding
 }
 
 ##d_transjurania ###################################
