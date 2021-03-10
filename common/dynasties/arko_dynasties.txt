@@ -1,0 +1,25 @@
+﻿9000000 = {
+	prefix = "dynnp_d_"
+	name = "dynn_aurillac"
+	culture = "occitan"
+}
+9000001 = {
+	prefix = "dynnp_de"
+	name = "dynn_mercoeur"
+	culture = "occitan"
+}
+9000002 = {
+	prefix = "dynnp_de"
+	name = "dynn_chapteuil"
+	culture = "occitan"
+}
+9000003 = {
+	prefix = "dynnp_de"
+	name = "dynn_carlat"
+	culture = "occitan"
+}
+9000004 = {
+	prefix = "dynnp_de"
+	name = "dynn_noyers"
+	culture = "french"
+}

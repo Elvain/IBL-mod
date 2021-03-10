@@ -528,6 +528,15 @@
 		holding = church_holding
 	}
 }
+2997 = {	#CHEB
+	holding = none
+	1040.1.1 = {
+		holding = castle_holding
+	}
+}
+3001 = {	#REHAU
+	holding = none
+}
 
 ###c_cottbus
 3181 = {	#COTTBUS
@@ -1133,7 +1142,9 @@
 	religion = catholic
 	holding = church_holding
 }
-2054 = {	#KONSTANZ
+2054 = {	#KONSTANZ >> KYBURG
+	culture = swabian
+	religion = catholic
 	holding = castle_holding
 }
 
@@ -1151,15 +1162,30 @@
 	#1122
 }
 2050 = {	#BASEL
+	culture = swabian
+	religion = catholic
 	holding = church_holding
 }
 
 ##d_alsace ###################################
 ###c_strassburg
-2721 = {	#STRASSBURG
+#2719 = {	#SELESTAT
+2719 = {	#HOHENBURG
+	#nordgau core lands
 	culture = swabian
 	religion = catholic
+	#holding = city_holding
 	holding = castle_holding
+}
+2721 = {	#STRASSBURG
+	##bishopric then free city
+	#culture = swabian
+	#religion = catholic
+	#holding = castle_holding
+	holding = church_holding
+	1201.1.1 = { #free imperial city
+		holding = city_holding
+	}
 }
 2722 = {	#HAGUENAU
 	holding = none
@@ -1167,9 +1193,19 @@
 		holding = city_holding
 	}
 }
-2723 = {	#LICHTBERG
+2723 = {	#DABO
 	holding = none
+	950.1.1 = {
+		holding = castle_holding
+	}
 }
+#2717 = {	#COLMAR
+2717 = {	#EGUISHEIM
+	#culture = swabian
+	#religion = catholic
+	holding = castle_holding
+}
+
 
 ###c_breisgau
 2751 = {	#FREIBURG
@@ -1189,14 +1225,9 @@
 }
 
 ###c_colmar
-2717 = {	#COLMAR
-	culture = swabian
-	religion = catholic
-	holding = castle_holding
-}
-2719 = {	#SELESTAT
-	holding = city_holding
-}
+#removed
+#baronies moved to strassburg/nordgau
+
 
 ###c_sundgau
 2057 = {	#MONTBELIARD
@@ -1209,15 +1240,17 @@
 }
 2720 = {	#FERRETTE
 	holding = none
-	1105.1.1 = {
+	#1105.1.1 = {
+	1066.1.1 = { #for it being to be inherited by the father of the first count of Ferrette
 		holding = castle_holding
 	}
 }
-2056 = {	#PORRENTRUY
+2056 = {	#SAINT URSANNE #c. basel
 	holding = none
-	975.1.1 = {
-		holding = church_holding
-	}
+	#975.1.1 = {
+		#holding = church_holding
+		holding = castle_holding
+	#}
 }
 
 ##d_swabia ###################################

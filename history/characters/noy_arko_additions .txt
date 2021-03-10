@@ -1,0 +1,53 @@
+﻿noy_000 = {
+	name="Milon" #
+	dynasty = 9000004
+	religion = "catholic"
+	culture = "french"
+	1015.1.1 = {
+		birth = yes
+	}
+	1075.1.1 = {
+		death = yes
+	}
+}
+noy_001 = {
+	name="Milon" #
+	dynasty = 9000004
+	religion = "catholic"
+	culture = "french"
+	father = noy_000
+	1040.1.1 = {
+		birth = yes
+	}
+	1090.6.1 = {
+		death = yes
+	}
+}
+noy_002 = {
+	name="Etienne" #
+	dynasty = 9000004
+	religion = "catholic"
+	culture = "french"
+	father = noy_000
+	1044.1.1 = {
+		birth = yes
+	}
+	1095.1.1 = {
+		death = yes
+	}
+}
+noy_003 = {
+	name="Gilbert" #
+	dynasty = 9000004
+	religion = "catholic"
+	culture = "french"
+	father = noy_001
+	1062.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+
+

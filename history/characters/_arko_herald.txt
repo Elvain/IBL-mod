@@ -1,0 +1,38 @@
+﻿arko_001 = {
+	name="Vuillerme"
+	#dynasty = 0
+	religion = "catholic"
+	culture = "occitan"
+	850.1.1 = {
+		birth = yes
+		health = -10
+	}
+	855.1.1 = {
+		trait = devoted
+		employer = 7977 #court of c_savoie
+		move_to_pool = yes
+	}
+	855.1.1 = {
+		effect = {
+			set_global_variable = {
+				name = arkomod_active
+				value = yes
+			}
+		}
+	}
+	1065.1.1 = {
+		employer = 1182 #court of c_savoie
+		move_to_pool = yes
+	}
+	1065.1.1 = {
+		effect = {
+			set_global_variable = {
+				name = arkomod_active
+				value = yes
+			}
+		}
+	}
+	1080.12.31 = {
+		death = yes
+	}
+}

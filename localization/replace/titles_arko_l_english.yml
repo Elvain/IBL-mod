@@ -1,0 +1,113 @@
+﻿l_english:
+ # FROM titles_l_english.yml
+ 
+ #Duchy of Bar
+ c_mousson:0 "Mousson" #was c. Briey
+ c_mousson_adj:0 "Mousson"
+ b_mousson:0 "Mousson"
+ b_gorze:1 "Gorze"
+ b_lamarche:0 "Lamarche"
+
+ ##Duchy of Lorraine
+ c_saintois:0 "Saintois" #was c. Neufchateau
+ c_saintois_adj:0 "Saintois"
+ b_vaudemont:0 "Vaudémont" #fixed vanilla spelling
+ b_chatel_moselle:0 "Châtel" 
+
+ c_toul:0 "Toulois" #was c. Vaucouleurs
+ c_toul_adj:0 "Toulois"
+ b_commercy:0 "Commercy"
+
+ b_chaumont_52:0 "Chaumont"
+ 
+ b_moyenmoutier:0 "Moyenmoutier"
+ 
+ #BURGUNDIES
+ b_louhans:0 "Louhans"
+ b_st_claude:0 "Saint-Oyand"
+ b_montluel:0 "Montluel"
+ b_semur_auxois:0 "Semur"
+ c_avalois:0 "Auxois"
+ c_avalois_adj:0 "auxese"
+ b_noyers:0 "Noyers"
+ b_fouvent:0 "Fouvent"
+ d_nevers:0 "Nevers"
+ d_nevers_adj:0 "nivernese"
+ c_tonnerrois:0 "Tonnerre"
+ b_tonnerre:0 "Tonnerre"
+
+ #FRANCE
+ d_blois:0 "Blois"
+ d_blois_adj:0 "Blesois"
+ d_france:0 "France"
+ d_france_adj:0 "French"  
+ #b_perche:0 "Perche"
+ c_perche:0 "Perche"
+ c_perche_adj:0 "perchese"
+ b_sully_sur_loire:0 "Sully"
+ b_contres:0 "Cheverny"
+ b_aube:0 "Joigny"
+ c_montargis:0 "Gâtinais"
+ c_montargis_adj:0 "gâtinaise"
+ b_nemours:0 "Avon" #Fontainbleau
+ b_chateau_landon:0 "Château-Landon"
+ c_vitry:0 "Vitry"
+ c_vitry_adj:0 "Vitry"
+ b_brienne:0 "Brienne"
+ c_coulommiers:0 "Bar-sur-Aube"
+ c_coulommiers_adj:0 "Barrese"
+ b_montereau:0 "Villeneuve"
+ b_cezanne:0 "Cézanne"
+ c_bourges:0 "Bourges"
+ c_bourges_adj:0 "Berrician"
+ b_charenton_sur_cher:0 "Charenton"
+ 
+ #BASEL
+ b_st_ursanne:0 "Saint-Ursanne"
+ 
+ #ALSACE
+ c_nordgau:0 "Nordgau"
+ c_nordgau_adj:0 "Nordgauer"
+ b_dabo:0 "Dabo"
+ b_eguisheim:0 "Eguisheim"
+ b_hohenbourg:0 "Hohenburg"
+ b_haguenau:0 "Haguenau" 
+ 
+ #SWISS
+ c_thurgau:0 "Thurgau"
+ c_thurgau_adj:0 "Thurgauer"
+ b_kyburg:0 "Kyburg"
+ b_kyburg_adj:0 "Kyburger"
+
+ #OCCITANIA
+ b_quercy:0 "Gourdon"
+ b_quercy_adj:0 "Gourdonnese" 
+ b_limoux:0 "Rasès"
+ b_limoux_adj:0 "Rasessois"
+ d_languedoc:0 "Septimania"
+ d_languedoc_adj:0 "Septimanian"
+ b_castelnaudary:0 "Castres"
+ b_castelnaudary_adj:0 "Castrese"
+ b_blagnac:0 "Blagnac"
+ b_blagnac_adj:0 "Blagnacese"
+ d_limousin:0 "Limousin"
+ d_limousin_adj:0 "Limousine"
+ c_limousin:0 "Limoges"
+ c_limousin_adj:0 "Limougide"
+ b_segur:0 "Ségur"
+ b_segur_adj:0 "Ségurese"
+ c_bas_limousin:0 "Ventadorn"
+ c_bas_limousin_adj:0 "Ventadornese"
+ b_rochechouart:0 "Rochechouart"
+ b_langon:0 "Roquetaillade"
+ b_langon_adj:0 "Roquetailladese" 
+ b_agenais:0 "Marmande"
+ b_agenais_adj:0 "Marmandese"
+ b_tursan:0 "Aire"
+ b_tursan_adj:0 "Aturese"
+ b_marsan:0 "Roquefort"
+ b_marsan_adj:0 "Roquefortese"
+ b_astarac:0 "Auch"
+ b_astarac_adj:0 "Auchese"
+ b_lourdes:0 "Lourdes"
+ b_lourdes_adj:0 "Lourdese"
